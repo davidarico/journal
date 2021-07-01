@@ -1,0 +1,14 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "A management for text file journals",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "new": "node main.js"
+  },
+  "author": "David Arico",
+  "license": "ISC"
+}
